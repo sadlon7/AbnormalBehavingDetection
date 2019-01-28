@@ -18,24 +18,10 @@ Repository for diploma thesis
 It is necessary to study computer vision methods engaged on human behaving recognition. It is also necessary to analyze existing solutions published in available scientific literature. Student has to design own method for recognition of various non-standard types of human behaving in crowd like fight, person lying on the ground etc.. In the end it is necessary to test and evaluate reached results.
 
 
-## Prerequisites
-
-MATLAB (ver. R2016a and newer) is needed.
-
-```
-MATLAB R2016a
-```
 
 ## Installation
 
-Scripts are implemented in MATLAB-e, no additional installation is required. No additional frameworks, libaries or enviroment is needed. (edit: 04.05.2018)
-
-
-## Download
-
-* [MATLAB](https://www.mathworks.com/products/matlab.html) - Enviroment
-
-
+Scripts are implemented in Python 3.x, OpenCV, TensorFlow, NumPy.
 
 
 
@@ -48,7 +34,7 @@ Repozitár k diplomovej práci
 * Škola: Univerzita Komenského v Bratislave
 * Fakulta: Fakulta matematiky, fyziky a informatiky, 
 * Odbor: Aplikovaná informatika 
-* Rok: 2018
+* Rok: 2019
 
 
 ## Podieľajúce sa osoby
@@ -62,19 +48,22 @@ Naštudovať metódy počítačového videnia zaoberajúce sa rozpoznávaním ľ
 
 ## Požiadavky
 
-Pre spustenie programu je potrebný MATLAB (ver. R2016a a novší).
+Pre spustenie programu je potrebný:
 
 ```
-MATLAB R2016a
+Python 3.x
+OpenCV
+TensorFlow
+NumPy
 ```
 
 ## Inštalácia a spustenie
 
-Skripty sú implementované v MATLAB-e, žiadna dodatočná inštalácia nie je potrebná. Rovanko nie sú potrebné dodatočné knižnice, frameworky, či iné prostredia. (edit: 04.05.2018)
+Bude doplnené neskôr...
 
 
 ## Na stiahnutie
 
-* [MATLAB](https://www.mathworks.com/products/matlab.html) - Vývojové prostredie
+Bude doplnené neskôr...
 
 
